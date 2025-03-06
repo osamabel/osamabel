@@ -18,7 +18,8 @@ Other: Git, Docker, CI/CD, Cloud Services
 <br/>
 
 🔗 Let's Connect!
+
 📧 Email: osamaalpha@gmail.com
-💼 LinkedIn: Oussama Belkhadir
+
 
 Let me know if you’d like any modifications or enhancements! 🚀
