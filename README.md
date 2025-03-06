@@ -17,8 +17,9 @@ Other: Git, Docker, CI/CD, Cloud Services
 <a href="https://github.com/osamabel?tab=repositories"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamabel&theme=dark&layout=compact"/> </a> <a href="https://github.com/osamabel?tab=repositories"> 
 <br/>
 
-
+https://www.linkedin.com/in/oussamabelkhadir/
 🔗 Let's Connect!
-💼 LinkedIn | 📧 Email | 🌐 Portfolio
+[https://github.com/osamabel?tab=repositories](linkedin)
+💼 <a href="">LinkedIn | 📧 Email | 🌐 Portfolio
 
 Let me know if you’d like any modifications or enhancements! 🚀
